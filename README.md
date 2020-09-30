@@ -1,2 +1,2 @@
 # Crime-Prediction-Using-Folium
-Crime prediction using folium on Map
+Crime prediction using folium on google map
